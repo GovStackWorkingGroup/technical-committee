@@ -6,8 +6,6 @@ status: active
 members:
   - identifier: ''
     name: ''
-    email: ''
-    url: ''
     affiliation:
       name: ''
       url: ''
@@ -22,11 +20,6 @@ projects:
     owners:
       - identifier: ''
         name: ''
-        email: ''
-        url: ''
-        affiliation:
-          name: ''
-          url: ''
 publications:
   - identifier: ''
     name: ''
